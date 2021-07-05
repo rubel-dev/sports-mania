@@ -21,7 +21,7 @@ const LeagueDetail = () => {
     useEffect(()=>{
         const league= data.find(league => league.idLeague === id);
         setDetail(league)
-    },[])  
+    },[id])  
     return (
         <section>
               <Header img={img}></Header>
