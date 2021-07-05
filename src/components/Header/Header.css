@@ -1,0 +1,21 @@
+ 
+.banner{
+    background-image: url("../../images/banner.jpg");
+    background-position: center center;
+    width: 100%;
+    height:250px;
+    background-size:cover;
+    opacity: .4;
+     
+}
+.banner img{
+    width: 100px;
+   
+    
+}
+.banner-title{
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+    
+}

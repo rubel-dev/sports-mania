@@ -1,0 +1,28 @@
+.league-detail{
+    background: #000;
+    color: white; 
+}
+.same-style img{
+    width: 20px;
+    margin-right: 10px;
+}
+.league-detail p{
+    margin-top: 10px;
+}
+.league-content{
+    background:#16a085;
+    border-radius: 10px;
+    padding:10px; 
+}
+.dynamic-img img{
+    width: 400px;
+}
+.footer{
+    text-align: center;
+    padding: 30px 0px;
+}
+.footer img{
+    width: 60px;
+    margin-left: 10px;
+    cursor: pointer;
+}
